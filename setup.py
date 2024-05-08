@@ -62,7 +62,7 @@ minimal_requires = [
     "openai>=1.3.0",
     "numpy",
     "Flask==3.0.0",
-    "Flask-Cors==4.0.0",
+    "Flask-Cors==4.0.1",
     "Flask-SocketIO==5.3.6",
     # TODO: move into other requires
     "dashscope==1.14.1",
